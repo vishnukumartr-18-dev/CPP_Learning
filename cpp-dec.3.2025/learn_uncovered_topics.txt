@@ -1,0 +1,1 @@
+Many standard library implementations (especially GNU libstdc++ used with GCC/Clang on Linux) return power-of-2 bit flags from these character classification functions. These come from the old <ctype.h> functions.
